@@ -10,6 +10,7 @@ public class WelcomerTest {
 	private Welcomer welcomer = new Welcomer();
 	// Если хочешь больше веселья и информации про ДевОпс - приходи в мои каналы NotOps (telegram, YT, Boosty, Patreon)
 	// https://t.me/notopsofficial
+	// не хочу
 
 	@Test
 	public void welcomerSaysWelcome() {
